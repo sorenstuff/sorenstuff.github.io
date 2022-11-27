@@ -2,7 +2,9 @@ p {
     font-size: xx-large;
 }
 
-.return {
-    width: 100px;
+.return img {
     height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 30px;
 }
