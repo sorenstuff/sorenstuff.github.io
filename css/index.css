@@ -1,4 +1,4 @@
-@font-face { font-family: GuyFont; src: url('/fonts/Guyfont-Regular.otf'); }
+@font-face { font-family: GuyFont; src: url('../fonts/Guyfont-Regular.otf'); }
 p {
     font-size: xx-large;
 }
