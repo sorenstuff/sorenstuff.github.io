@@ -11,6 +11,10 @@ p {
     font-size: xx-large;
 }
 
+a {
+    text-decoration: none;
+}
+
 .return img {
     height: 100px;
     width: 100px;
