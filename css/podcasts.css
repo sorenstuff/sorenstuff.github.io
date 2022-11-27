@@ -5,8 +5,8 @@ body {font-family: GuyFont;}
 a {text-decoration: none;}
 
 .return img {
-    height: 100px;
-    width: 100px;
+    max-height: 100px;
+    max-width: 100px;
     position: absolute;
     margin-top: 10px;
     margin-left: 10px;
@@ -14,12 +14,12 @@ a {text-decoration: none;}
 
 .head {
     position: absolute;
-    top: 6%;
-    left: 7%;
+    top: 60px;
+    left: 140px;
 }
 
 p {
     position: fixed;
-    top: 12%;
-    left: 2%;
+    top: 125px;
+    left: 40px;
 }
