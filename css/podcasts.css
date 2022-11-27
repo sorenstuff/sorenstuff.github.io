@@ -3,5 +3,6 @@ p {
 }
 
 .return {
-    font-weight: bolder;
+    width: 100px;
+    height: 100px;
 }
