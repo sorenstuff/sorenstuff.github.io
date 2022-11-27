@@ -1,23 +1,25 @@
-@font-face {
-    font-family: GuyFont;
-    src: url(../fonts/Guyfont-Regular.otf);
-}
+@font-face {font-family: GuyFont; src: url(../fonts/Guyfont-Regular.otf);}
 
-body {
-    font-family: GuyFont;
-}
+body {font-family: GuyFont;}
 
-p {
-    font-size: xx-large;
-}
-
-a {
-    text-decoration: none;
-}
+a {text-decoration: none;}
 
 .return img {
     height: 100px;
     width: 100px;
+    position: absolute;
     margin-top: 10px;
-    margin-left: 30px;
+    margin-left: 10px;
+}
+
+.head {
+    position: absolute;
+    top: 6%;
+    left: 7%;
+}
+
+p {
+    position: fixed;
+    top: 12%;
+    left: 2%;
 }
